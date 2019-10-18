@@ -1,4 +1,4 @@
 # High.Low-Game
 Guess a number between 1-100
 
-This program will simulate a game of High or Low.
+This program will simulate a game of High or Low until you get to the lowest number.
